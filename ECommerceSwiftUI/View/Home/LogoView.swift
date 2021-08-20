@@ -24,7 +24,7 @@ struct LogoView: View {
                 .font(.title3)
                 .fontWeight(.black)
                 .foregroundColor(.black)
-        }//; Hstack
+        }//; Hstack 
     }
 }
 
